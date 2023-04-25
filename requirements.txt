@@ -1,0 +1,5 @@
+pip install colorama
+pip install PyAutoGUI
+pip install google-api-python-client
+pip install youtube_dl
+

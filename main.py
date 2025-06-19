@@ -2,7 +2,7 @@ import pyautogui as pg
 from colorama import Fore 
 import os 
 from googleapiclient.discovery import build
-import youtube_dl
+import yt_dlp as youtube_dl
 import sys 
 
 start=pg.confirm("START",buttons=['YES','NO'],title="STARTING...")

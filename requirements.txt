@@ -1,5 +1,4 @@
 colorama
-PyAutoGUI
+pyautogui
 google-api-python-client
-youtube_dl
-
+yt-dlp
